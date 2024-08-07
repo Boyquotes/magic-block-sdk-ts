@@ -1,0 +1,18 @@
+{
+  "name": "client2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@magicblock-labs/soar-sdk": "^0.1.23",
+    "@solana/web3.js": "^1.95.2",
+    "i": "^0.3.7"
+  }
+}
